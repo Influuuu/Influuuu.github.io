@@ -2,14 +2,16 @@
 layout: single
 title:  "깃허브 블로그 작성하기"
 subtitle: "서브타이틀 테스트"
-categories: study
 
 comments: ture
+
 
 
 ---
 
 ## 1.1마크다운 테스트 
+
+여기에 아무 말이나 작성하세요
 
 ***
 
@@ -23,9 +25,9 @@ comments: ture
 #  2.1 이렇게 하는게 맞나요?
 
 참고 사이트 
-https://guides.github.com/features/mastering-markdown/
-https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+https://guides.github.com/features/mastering-markdown/ <br/>
+https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/ <br/>
+https://gist.github.com/ihoneymon/652be052a0727ad59601 <br/>
 
 <br/>
 
@@ -72,6 +74,8 @@ int a = 1
 </pre>
 
 
+
 ```swift
 int a = 1
 ```
+
