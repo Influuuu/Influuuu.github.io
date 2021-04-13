@@ -2,7 +2,7 @@
 layout: single
 title:  "깃허브 블로그 작성하기"
 subtitle: "서브타이틀 테스트"
-
+categories: [iOS]
 comments: ture
 
 
