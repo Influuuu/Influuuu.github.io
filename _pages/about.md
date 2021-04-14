@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
 excerpt: "about.md"
@@ -9,7 +10,7 @@ tags: [About]
 ---
 
 ## Address 
-
+layout single test
 Department of Biomedical Engineering, Gachon University
 
 191 Hambakmoe-ro, Yeonsu-gu, Incheon 406-799, South Korea
