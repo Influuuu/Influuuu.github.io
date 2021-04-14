@@ -18,8 +18,8 @@ Univ. : Soongsil Univ. <br/>
 
 ## Contact
 
-Phone : # 82 (0)10-6501-7032
-Email : mailto:seongchan1005@gmail.com / mailto:seongchan1005@soongsil.ac.kr
+Phone : 
+Email : [seongchan1005@gmail.com](seongchan1005@gmail.com) / [seongchan1005@soongsil.ac.kr](seongchan1005@soongsil.ac.kr)
 
 
 ---
