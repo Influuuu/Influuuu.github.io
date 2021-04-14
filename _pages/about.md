@@ -18,8 +18,8 @@ Univ. : Soongsil Univ. <br/>
 
 ## Contact
 
-Phone : 
-Email : [seongchan1005@gmail.com](seongchan1005@gmail.com) / [seongchan1005@soongsil.ac.kr](seongchan1005@soongsil.ac.kr)
+Phone : <br/>
+Email : "mailto:seongchan1005@gmail.com" / [seongchan1005@soongsil.ac.kr](seongchan1005@soongsil.ac.kr)
 
 
 ---
